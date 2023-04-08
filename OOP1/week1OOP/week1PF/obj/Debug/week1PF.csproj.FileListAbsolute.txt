@@ -6,3 +6,11 @@ F:\study\sem2\PF1\week1PF\week1PF\obj\Debug\week1PF.csproj.SuggestedBindingRedir
 F:\study\sem2\PF1\week1PF\week1PF\obj\Debug\week1PF.csproj.CoreCompileInputs.cache
 F:\study\sem2\PF1\week1PF\week1PF\obj\Debug\week1PF.exe
 F:\study\sem2\PF1\week1PF\week1PF\obj\Debug\week1PF.pdb
+F:\study\sem2\OOP\OOPsemester2\OOP1\week1OOP\week1PF\bin\Debug\week1PF.exe.config
+F:\study\sem2\OOP\OOPsemester2\OOP1\week1OOP\week1PF\bin\Debug\week1PF.exe
+F:\study\sem2\OOP\OOPsemester2\OOP1\week1OOP\week1PF\bin\Debug\week1PF.pdb
+F:\study\sem2\OOP\OOPsemester2\OOP1\week1OOP\week1PF\obj\Debug\week1PF.csproj.AssemblyReference.cache
+F:\study\sem2\OOP\OOPsemester2\OOP1\week1OOP\week1PF\obj\Debug\week1PF.csproj.SuggestedBindingRedirects.cache
+F:\study\sem2\OOP\OOPsemester2\OOP1\week1OOP\week1PF\obj\Debug\week1PF.csproj.CoreCompileInputs.cache
+F:\study\sem2\OOP\OOPsemester2\OOP1\week1OOP\week1PF\obj\Debug\week1PF.exe
+F:\study\sem2\OOP\OOPsemester2\OOP1\week1OOP\week1PF\obj\Debug\week1PF.pdb

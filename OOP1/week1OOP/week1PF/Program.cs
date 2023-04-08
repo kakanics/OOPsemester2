@@ -11,17 +11,41 @@ namespace week1PF
     {
         static void Main(string[] args)
         {
+            Console.Clear();
+            Console.WriteLine("Task 1, area of square");
             Task1();
+            Console.Clear();
+            Console.WriteLine("Task 2, check passed");
             Task2();
+            Console.Clear();
+            Console.WriteLine("Task 3, welcome 5 times");
             Task3();
+            Console.Clear();
+            Console.WriteLine("Task 4, ask for numbers until -1");
             Task4();
+            Console.Clear();
+            Console.WriteLine("Task 5, sum numbers until -1 is read");
             Task5();
+            Console.Clear();
+            Console.WriteLine("Task 6, find largest of 3 numbers");
             Task6();
+            Console.Clear();
+            Console.WriteLine("Task 7, Lilly's infamous task");
             Task7();
+            Console.Clear();
+            Console.WriteLine("Task 8, sum 2 numbers");
             Task8();
+            Console.Clear();
+            Console.WriteLine("Task 9, read file");
             Task9();
+            Console.Clear();
+            Console.WriteLine("Task 10, write to file");
             Task10();
+            Console.Clear();
+            Console.WriteLine("Task 11, sign in, sign up");
             Task11();
+            Console.Clear();
+            Console.WriteLine("Task 12, free pizza task");
             Task12("F:\\study\\sem2\\lab1\\Data.txt", 5, 20);
         }
         static void Task1()
