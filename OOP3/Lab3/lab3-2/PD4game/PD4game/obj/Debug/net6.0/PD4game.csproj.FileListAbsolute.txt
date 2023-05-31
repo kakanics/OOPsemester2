@@ -1,0 +1,17 @@
+F:\study\sem2\OOP\OOPsemester2\OOP3\Lab3\lab3-2\PD4game\PD4game\bin\Debug\net6.0\PD4game.exe
+F:\study\sem2\OOP\OOPsemester2\OOP3\Lab3\lab3-2\PD4game\PD4game\bin\Debug\net6.0\PD4game.deps.json
+F:\study\sem2\OOP\OOPsemester2\OOP3\Lab3\lab3-2\PD4game\PD4game\bin\Debug\net6.0\PD4game.runtimeconfig.json
+F:\study\sem2\OOP\OOPsemester2\OOP3\Lab3\lab3-2\PD4game\PD4game\bin\Debug\net6.0\PD4game.dll
+F:\study\sem2\OOP\OOPsemester2\OOP3\Lab3\lab3-2\PD4game\PD4game\bin\Debug\net6.0\PD4game.pdb
+F:\study\sem2\OOP\OOPsemester2\OOP3\Lab3\lab3-2\PD4game\PD4game\bin\Debug\net6.0\EZInput.dll
+F:\study\sem2\OOP\OOPsemester2\OOP3\Lab3\lab3-2\PD4game\PD4game\obj\Debug\net6.0\PD4game.csproj.AssemblyReference.cache
+F:\study\sem2\OOP\OOPsemester2\OOP3\Lab3\lab3-2\PD4game\PD4game\obj\Debug\net6.0\PD4game.GeneratedMSBuildEditorConfig.editorconfig
+F:\study\sem2\OOP\OOPsemester2\OOP3\Lab3\lab3-2\PD4game\PD4game\obj\Debug\net6.0\PD4game.AssemblyInfoInputs.cache
+F:\study\sem2\OOP\OOPsemester2\OOP3\Lab3\lab3-2\PD4game\PD4game\obj\Debug\net6.0\PD4game.AssemblyInfo.cs
+F:\study\sem2\OOP\OOPsemester2\OOP3\Lab3\lab3-2\PD4game\PD4game\obj\Debug\net6.0\PD4game.csproj.CoreCompileInputs.cache
+F:\study\sem2\OOP\OOPsemester2\OOP3\Lab3\lab3-2\PD4game\PD4game\obj\Debug\net6.0\PD4game.csproj.CopyComplete
+F:\study\sem2\OOP\OOPsemester2\OOP3\Lab3\lab3-2\PD4game\PD4game\obj\Debug\net6.0\PD4game.dll
+F:\study\sem2\OOP\OOPsemester2\OOP3\Lab3\lab3-2\PD4game\PD4game\obj\Debug\net6.0\refint\PD4game.dll
+F:\study\sem2\OOP\OOPsemester2\OOP3\Lab3\lab3-2\PD4game\PD4game\obj\Debug\net6.0\PD4game.pdb
+F:\study\sem2\OOP\OOPsemester2\OOP3\Lab3\lab3-2\PD4game\PD4game\obj\Debug\net6.0\PD4game.genruntimeconfig.cache
+F:\study\sem2\OOP\OOPsemester2\OOP3\Lab3\lab3-2\PD4game\PD4game\obj\Debug\net6.0\ref\PD4game.dll

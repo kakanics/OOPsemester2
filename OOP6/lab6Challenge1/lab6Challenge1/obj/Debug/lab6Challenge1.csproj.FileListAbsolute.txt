@@ -1,0 +1,8 @@
+F:\study\sem2\OOP\OOPsemester2\OOP6\lab6Challenge1\lab6Challenge1\bin\Debug\lab6Challenge1.exe.config
+F:\study\sem2\OOP\OOPsemester2\OOP6\lab6Challenge1\lab6Challenge1\bin\Debug\lab6Challenge1.exe
+F:\study\sem2\OOP\OOPsemester2\OOP6\lab6Challenge1\lab6Challenge1\bin\Debug\lab6Challenge1.pdb
+F:\study\sem2\OOP\OOPsemester2\OOP6\lab6Challenge1\lab6Challenge1\obj\Debug\lab6Challenge1.csproj.AssemblyReference.cache
+F:\study\sem2\OOP\OOPsemester2\OOP6\lab6Challenge1\lab6Challenge1\obj\Debug\lab6Challenge1.csproj.SuggestedBindingRedirects.cache
+F:\study\sem2\OOP\OOPsemester2\OOP6\lab6Challenge1\lab6Challenge1\obj\Debug\lab6Challenge1.csproj.CoreCompileInputs.cache
+F:\study\sem2\OOP\OOPsemester2\OOP6\lab6Challenge1\lab6Challenge1\obj\Debug\lab6Challenge1.exe
+F:\study\sem2\OOP\OOPsemester2\OOP6\lab6Challenge1\lab6Challenge1\obj\Debug\lab6Challenge1.pdb

@@ -1,0 +1,8 @@
+F:\study\sem2\OOP\OOPsemester2\PD6\PDhilo\hilo\hilo\bin\Debug\hilo.exe.config
+F:\study\sem2\OOP\OOPsemester2\PD6\PDhilo\hilo\hilo\bin\Debug\hilo.exe
+F:\study\sem2\OOP\OOPsemester2\PD6\PDhilo\hilo\hilo\bin\Debug\hilo.pdb
+F:\study\sem2\OOP\OOPsemester2\PD6\PDhilo\hilo\hilo\obj\Debug\hilo.csproj.AssemblyReference.cache
+F:\study\sem2\OOP\OOPsemester2\PD6\PDhilo\hilo\hilo\obj\Debug\hilo.csproj.SuggestedBindingRedirects.cache
+F:\study\sem2\OOP\OOPsemester2\PD6\PDhilo\hilo\hilo\obj\Debug\hilo.csproj.CoreCompileInputs.cache
+F:\study\sem2\OOP\OOPsemester2\PD6\PDhilo\hilo\hilo\obj\Debug\hilo.exe
+F:\study\sem2\OOP\OOPsemester2\PD6\PDhilo\hilo\hilo\obj\Debug\hilo.pdb

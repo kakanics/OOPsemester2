@@ -1,0 +1,8 @@
+F:\study\sem2\OOP\OOPsemester2\OOPLab6\lab6_1\lab6_1\bin\Debug\lab6_1.exe.config
+F:\study\sem2\OOP\OOPsemester2\OOPLab6\lab6_1\lab6_1\bin\Debug\lab6_1.exe
+F:\study\sem2\OOP\OOPsemester2\OOPLab6\lab6_1\lab6_1\bin\Debug\lab6_1.pdb
+F:\study\sem2\OOP\OOPsemester2\OOPLab6\lab6_1\lab6_1\obj\Debug\lab6_1.csproj.AssemblyReference.cache
+F:\study\sem2\OOP\OOPsemester2\OOPLab6\lab6_1\lab6_1\obj\Debug\lab6_1.csproj.SuggestedBindingRedirects.cache
+F:\study\sem2\OOP\OOPsemester2\OOPLab6\lab6_1\lab6_1\obj\Debug\lab6_1.csproj.CoreCompileInputs.cache
+F:\study\sem2\OOP\OOPsemester2\OOPLab6\lab6_1\lab6_1\obj\Debug\lab6_1.exe
+F:\study\sem2\OOP\OOPsemester2\OOPLab6\lab6_1\lab6_1\obj\Debug\lab6_1.pdb

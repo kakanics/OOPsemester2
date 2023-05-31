@@ -1,0 +1,8 @@
+F:\study\sem2\OOP\OOPsemester2\PD5\PD5\PD5\bin\Debug\PD5.exe.config
+F:\study\sem2\OOP\OOPsemester2\PD5\PD5\PD5\bin\Debug\PD5.exe
+F:\study\sem2\OOP\OOPsemester2\PD5\PD5\PD5\bin\Debug\PD5.pdb
+F:\study\sem2\OOP\OOPsemester2\PD5\PD5\PD5\obj\Debug\PD5.csproj.AssemblyReference.cache
+F:\study\sem2\OOP\OOPsemester2\PD5\PD5\PD5\obj\Debug\PD5.csproj.SuggestedBindingRedirects.cache
+F:\study\sem2\OOP\OOPsemester2\PD5\PD5\PD5\obj\Debug\PD5.csproj.CoreCompileInputs.cache
+F:\study\sem2\OOP\OOPsemester2\PD5\PD5\PD5\obj\Debug\PD5.exe
+F:\study\sem2\OOP\OOPsemester2\PD5\PD5\PD5\obj\Debug\PD5.pdb

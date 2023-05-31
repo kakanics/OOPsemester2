@@ -1,0 +1,8 @@
+F:\study\sem2\OOP\OOPsemester2\OOP3\Lab3\lab3-2\challenge2Week3Lab\challenge2Week3Lab\bin\Debug\challenge2Week3Lab.exe.config
+F:\study\sem2\OOP\OOPsemester2\OOP3\Lab3\lab3-2\challenge2Week3Lab\challenge2Week3Lab\bin\Debug\challenge2Week3Lab.exe
+F:\study\sem2\OOP\OOPsemester2\OOP3\Lab3\lab3-2\challenge2Week3Lab\challenge2Week3Lab\bin\Debug\challenge2Week3Lab.pdb
+F:\study\sem2\OOP\OOPsemester2\OOP3\Lab3\lab3-2\challenge2Week3Lab\challenge2Week3Lab\obj\Debug\challenge2Week3Lab.csproj.AssemblyReference.cache
+F:\study\sem2\OOP\OOPsemester2\OOP3\Lab3\lab3-2\challenge2Week3Lab\challenge2Week3Lab\obj\Debug\challenge2Week3Lab.csproj.SuggestedBindingRedirects.cache
+F:\study\sem2\OOP\OOPsemester2\OOP3\Lab3\lab3-2\challenge2Week3Lab\challenge2Week3Lab\obj\Debug\challenge2Week3Lab.csproj.CoreCompileInputs.cache
+F:\study\sem2\OOP\OOPsemester2\OOP3\Lab3\lab3-2\challenge2Week3Lab\challenge2Week3Lab\obj\Debug\challenge2Week3Lab.exe
+F:\study\sem2\OOP\OOPsemester2\OOP3\Lab3\lab3-2\challenge2Week3Lab\challenge2Week3Lab\obj\Debug\challenge2Week3Lab.pdb

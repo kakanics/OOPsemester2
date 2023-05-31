@@ -1,0 +1,8 @@
+F:\study\sem2\OOP\OOPsemester2\OOP7\Challenge1\FireTruckTask\FireTruckTask\FireTruckTask\bin\Debug\FireTruckTask.exe.config
+F:\study\sem2\OOP\OOPsemester2\OOP7\Challenge1\FireTruckTask\FireTruckTask\FireTruckTask\bin\Debug\FireTruckTask.exe
+F:\study\sem2\OOP\OOPsemester2\OOP7\Challenge1\FireTruckTask\FireTruckTask\FireTruckTask\bin\Debug\FireTruckTask.pdb
+F:\study\sem2\OOP\OOPsemester2\OOP7\Challenge1\FireTruckTask\FireTruckTask\FireTruckTask\obj\Debug\FireTruckTask.csproj.AssemblyReference.cache
+F:\study\sem2\OOP\OOPsemester2\OOP7\Challenge1\FireTruckTask\FireTruckTask\FireTruckTask\obj\Debug\FireTruckTask.csproj.SuggestedBindingRedirects.cache
+F:\study\sem2\OOP\OOPsemester2\OOP7\Challenge1\FireTruckTask\FireTruckTask\FireTruckTask\obj\Debug\FireTruckTask.csproj.CoreCompileInputs.cache
+F:\study\sem2\OOP\OOPsemester2\OOP7\Challenge1\FireTruckTask\FireTruckTask\FireTruckTask\obj\Debug\FireTruckTask.exe
+F:\study\sem2\OOP\OOPsemester2\OOP7\Challenge1\FireTruckTask\FireTruckTask\FireTruckTask\obj\Debug\FireTruckTask.pdb

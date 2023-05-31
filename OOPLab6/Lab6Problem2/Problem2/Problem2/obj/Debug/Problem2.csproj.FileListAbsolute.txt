@@ -1,0 +1,8 @@
+F:\study\sem2\OOP\OOPsemester2\OOPLab6\Lab6Problem2\Problem2\Problem2\bin\Debug\Problem2.exe.config
+F:\study\sem2\OOP\OOPsemester2\OOPLab6\Lab6Problem2\Problem2\Problem2\bin\Debug\Problem2.exe
+F:\study\sem2\OOP\OOPsemester2\OOPLab6\Lab6Problem2\Problem2\Problem2\bin\Debug\Problem2.pdb
+F:\study\sem2\OOP\OOPsemester2\OOPLab6\Lab6Problem2\Problem2\Problem2\obj\Debug\Problem2.csproj.AssemblyReference.cache
+F:\study\sem2\OOP\OOPsemester2\OOPLab6\Lab6Problem2\Problem2\Problem2\obj\Debug\Problem2.csproj.SuggestedBindingRedirects.cache
+F:\study\sem2\OOP\OOPsemester2\OOPLab6\Lab6Problem2\Problem2\Problem2\obj\Debug\Problem2.csproj.CoreCompileInputs.cache
+F:\study\sem2\OOP\OOPsemester2\OOPLab6\Lab6Problem2\Problem2\Problem2\obj\Debug\Problem2.exe
+F:\study\sem2\OOP\OOPsemester2\OOPLab6\Lab6Problem2\Problem2\Problem2\obj\Debug\Problem2.pdb

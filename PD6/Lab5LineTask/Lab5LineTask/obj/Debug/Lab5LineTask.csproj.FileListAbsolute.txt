@@ -1,0 +1,8 @@
+F:\study\sem2\OOP\OOPsemester2\PD6\Lab5LineTask\Lab5LineTask\bin\Debug\Lab5LineTask.exe.config
+F:\study\sem2\OOP\OOPsemester2\PD6\Lab5LineTask\Lab5LineTask\bin\Debug\Lab5LineTask.exe
+F:\study\sem2\OOP\OOPsemester2\PD6\Lab5LineTask\Lab5LineTask\bin\Debug\Lab5LineTask.pdb
+F:\study\sem2\OOP\OOPsemester2\PD6\Lab5LineTask\Lab5LineTask\obj\Debug\Lab5LineTask.csproj.AssemblyReference.cache
+F:\study\sem2\OOP\OOPsemester2\PD6\Lab5LineTask\Lab5LineTask\obj\Debug\Lab5LineTask.csproj.SuggestedBindingRedirects.cache
+F:\study\sem2\OOP\OOPsemester2\PD6\Lab5LineTask\Lab5LineTask\obj\Debug\Lab5LineTask.csproj.CoreCompileInputs.cache
+F:\study\sem2\OOP\OOPsemester2\PD6\Lab5LineTask\Lab5LineTask\obj\Debug\Lab5LineTask.exe
+F:\study\sem2\OOP\OOPsemester2\PD6\Lab5LineTask\Lab5LineTask\obj\Debug\Lab5LineTask.pdb

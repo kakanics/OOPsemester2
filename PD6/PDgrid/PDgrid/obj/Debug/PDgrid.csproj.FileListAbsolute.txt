@@ -1,0 +1,8 @@
+F:\study\sem2\OOP\OOPsemester2\PD6\PDgrid\PDgrid\obj\Debug\PDgrid.csproj.AssemblyReference.cache
+F:\study\sem2\OOP\OOPsemester2\PD6\PDgrid\PDgrid\obj\Debug\PDgrid.csproj.SuggestedBindingRedirects.cache
+F:\study\sem2\OOP\OOPsemester2\PD6\PDgrid\PDgrid\obj\Debug\PDgrid.csproj.CoreCompileInputs.cache
+F:\study\sem2\OOP\OOPsemester2\PD6\PDgrid\PDgrid\bin\Debug\PDgrid.exe.config
+F:\study\sem2\OOP\OOPsemester2\PD6\PDgrid\PDgrid\bin\Debug\PDgrid.exe
+F:\study\sem2\OOP\OOPsemester2\PD6\PDgrid\PDgrid\bin\Debug\PDgrid.pdb
+F:\study\sem2\OOP\OOPsemester2\PD6\PDgrid\PDgrid\obj\Debug\PDgrid.exe
+F:\study\sem2\OOP\OOPsemester2\PD6\PDgrid\PDgrid\obj\Debug\PDgrid.pdb

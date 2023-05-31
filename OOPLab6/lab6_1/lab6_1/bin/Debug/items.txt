@@ -1,0 +1,5 @@
+hamburger,food,600
+cinnamon roll,food,150
+orange juice,drink,60
+lemondae,drink,50
+cranberryjuice,drink,100
