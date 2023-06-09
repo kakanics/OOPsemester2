@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -16,6 +17,7 @@ namespace PDgrid
         char ghostChar = 'G';
         float deltaChange;
         Grid mazeGrid;
+        Random random = new Random();
 
         public Ghost(int x, int y, string direction, float speed, char prevItem, char ghostChar, float deltaChange, Grid mazeGrid)
         {
@@ -58,44 +60,82 @@ namespace PDgrid
         }
         public void moveHorizontal()
         {
+            remove();
             if (direction == "right")
-                x++;
-            else if(direction == "left") x--;
-            if (x == 8) setDirection("left");
-            if (x == 1) setDirection("right");
+            {
+                if (mazeGrid.maze[y + 1, x].value == ' ' || mazeGrid.maze[y + 1, x].value == 'P')
+                    y++;
+            }
+            else if (direction == "left")
+            {
+                if (mazeGrid.maze[y - 1, x].value == ' ' || mazeGrid.maze[y - 1, x].value == 'P')
+                    y--;
+            }
+            draw();
+            if (y == 7) setDirection("left");
+            if (y == 1) setDirection("right");
         }
         public void moveVertical()
         {
+            remove();
             if (direction == "down")
-                y++;
-            else if (direction == "up") y--;
-
-            if (y == 8) setDirection("up");
-            if (y == 1) setDirection("down");
+            {
+                if (mazeGrid.maze[y, x + 1].value == ' ' || mazeGrid.maze[y, x + 1].value == 'P')
+                    x++;
+            }
+            else if (direction == "up")
+            {
+                if (mazeGrid.maze[y, x - 1].value == ' ' || mazeGrid.maze[y, x - 1].value == 'P')
+                    x--;
+            }
+                draw();
+            if (x == 7) setDirection("up");
+            if (x == 1) setDirection("down");
         }
         public int generateRandom()
         {
-            Random random = new Random();
             return random.Next(0, 2);
         }
         public void MoveRandom()
         {
             if(generateRandom()==0)
             {
+                if(generateRandom()==0)
+                    direction = "left";
+                else
+                    direction = "right";
                 moveHorizontal();
             }
             else
             {
+                if (generateRandom() == 0)
+                    direction = "up";
+                else
+                    direction = "down";
                 moveVertical();
             }
         }
         public void MoveSmart()
         {
             Cell pacman = mazeGrid.findPacman();
-            if (pacman.x > x) x++;
-            else x--;
-            if (pacman.y > y) y++;
-            else y--;
+            if (pacman == null) return;
+            remove();
+            if (pacman.x > y)
+            {
+                if (mazeGrid.maze[y + 1, x].value == ' ' || mazeGrid.maze[y + 1, x].value == 'P')
+                    y++;
+            }
+            else 
+                if (mazeGrid.maze[y - 1, x].value == ' '|| mazeGrid.maze[y - 1, x].value == 'P')
+                    y--;
+            if (pacman.y > x)
+            {
+                if (mazeGrid.maze[y, x + 1].value == ' '|| mazeGrid.maze[y, x + 1].value == 'P')
+                    x++;
+            }else
+                if (mazeGrid.maze[y, x - 1].value == ' ' || mazeGrid.maze[y, x - 1].value == 'P')
+                    x--;
+            draw();
         }
         public double calculateDistance()
         {

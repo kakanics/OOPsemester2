@@ -1,0 +1,8 @@
+F:\study\sem2\businessAppCompletePreMids\businessAppComplete\businessAppComplete\bin\Debug\businessAppComplete.exe.config
+F:\study\sem2\businessAppCompletePreMids\businessAppComplete\businessAppComplete\bin\Debug\businessAppComplete.exe
+F:\study\sem2\businessAppCompletePreMids\businessAppComplete\businessAppComplete\bin\Debug\businessAppComplete.pdb
+F:\study\sem2\businessAppCompletePreMids\businessAppComplete\businessAppComplete\obj\Debug\businessAppComplete.csproj.AssemblyReference.cache
+F:\study\sem2\businessAppCompletePreMids\businessAppComplete\businessAppComplete\obj\Debug\businessAppComplete.csproj.SuggestedBindingRedirects.cache
+F:\study\sem2\businessAppCompletePreMids\businessAppComplete\businessAppComplete\obj\Debug\businessAppComplete.csproj.CoreCompileInputs.cache
+F:\study\sem2\businessAppCompletePreMids\businessAppComplete\businessAppComplete\obj\Debug\businessAppComplete.exe
+F:\study\sem2\businessAppCompletePreMids\businessAppComplete\businessAppComplete\obj\Debug\businessAppComplete.pdb

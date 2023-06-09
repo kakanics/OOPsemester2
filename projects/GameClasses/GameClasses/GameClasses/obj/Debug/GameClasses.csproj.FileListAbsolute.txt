@@ -1,0 +1,11 @@
+F:\study\sem2\GameClasses\GameClasses\GameClasses\bin\Debug\GameClasses.exe.config
+F:\study\sem2\GameClasses\GameClasses\GameClasses\bin\Debug\GameClasses.exe
+F:\study\sem2\GameClasses\GameClasses\GameClasses\bin\Debug\GameClasses.pdb
+F:\study\sem2\GameClasses\GameClasses\GameClasses\bin\Debug\EZInput.dll
+F:\study\sem2\GameClasses\GameClasses\GameClasses\bin\Debug\EZInput.xml
+F:\study\sem2\GameClasses\GameClasses\GameClasses\obj\Debug\GameClasses.csproj.AssemblyReference.cache
+F:\study\sem2\GameClasses\GameClasses\GameClasses\obj\Debug\GameClasses.csproj.SuggestedBindingRedirects.cache
+F:\study\sem2\GameClasses\GameClasses\GameClasses\obj\Debug\GameClasses.csproj.CoreCompileInputs.cache
+F:\study\sem2\GameClasses\GameClasses\GameClasses\obj\Debug\GameClasses.csproj.CopyComplete
+F:\study\sem2\GameClasses\GameClasses\GameClasses\obj\Debug\GameClasses.exe
+F:\study\sem2\GameClasses\GameClasses\GameClasses\obj\Debug\GameClasses.pdb

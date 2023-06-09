@@ -15,6 +15,7 @@ namespace PDgrid
 
         public Pacman(int x, int y, int score, Grid mazeGrid)
         {
+            mazeGrid.maze[y, x].value = 'P';
             this.x = x;
             this.y = y;
             this.score = score;
@@ -31,22 +32,38 @@ namespace PDgrid
         public void moveLeft()
         {
             if (mazeGrid.getLeftCell(mazeGrid.maze[y,x]).value==' ')
-            x--;
+            {
+                remove();
+                 y--;
+                draw();
+            }
         }
         public void moveRight()
         {
             if (mazeGrid.getRightCell(mazeGrid.maze[y, x]).value == ' ')
-                x++;
+            {
+                remove();
+                y++;
+                draw();
+            }
         }
         public void moveDown()
         {
             if (mazeGrid.getBottomCell(mazeGrid.maze[y, x]).value == ' ')
-                y++;
+            {
+                remove();
+                x++;
+                draw();
+            }
         }
         public void moveUp()
         {
             if (mazeGrid.getTopCell(mazeGrid.maze[y, x]).value == ' ')
-                y--;
+            {
+                remove();
+                x--;
+                draw();
+            }
         }
         public void printScore()
         {

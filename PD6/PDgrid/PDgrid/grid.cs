@@ -20,10 +20,6 @@ namespace PDgrid
             this.columnSize = columnSize;
             populateGrid(path);
         }
-        public Cell getLeftCell(Cell c)
-        {
-            return maze[c.getX() - 1, c.getY() - 1];
-        }
         public void populateGrid(string path)
         {
             StreamReader sr = new StreamReader(path);
@@ -43,9 +39,13 @@ namespace PDgrid
                 }
             }
         }
+        public Cell getLeftCell(Cell c)
+        {
+            return maze[c.getX() - 1, c.getY()];
+        }
         public Cell getRightCell(Cell c)
         {
-            return maze[c.getX() + 1, c.getY() - 1];
+            return maze[c.getX() + 1, c.getY()];
         }
         public Cell getTopCell(Cell c)
         {
@@ -87,6 +87,13 @@ namespace PDgrid
                     Console.Write(i.getValue());
                     }
             }
+        }
+        public bool stopCondition()
+        {
+            Cell pacCell = findPacman();
+            if(pacCell==null)
+                return true;
+            return false;
         }
     }
 }

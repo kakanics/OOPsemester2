@@ -6,3 +6,6 @@ F:\study\sem2\OOP\OOPsemester2\PD6\PDgrid\PDgrid\bin\Debug\PDgrid.exe
 F:\study\sem2\OOP\OOPsemester2\PD6\PDgrid\PDgrid\bin\Debug\PDgrid.pdb
 F:\study\sem2\OOP\OOPsemester2\PD6\PDgrid\PDgrid\obj\Debug\PDgrid.exe
 F:\study\sem2\OOP\OOPsemester2\PD6\PDgrid\PDgrid\obj\Debug\PDgrid.pdb
+F:\study\sem2\OOP\OOPsemester2\PD6\PDgrid\PDgrid\bin\Debug\EZInput.dll
+F:\study\sem2\OOP\OOPsemester2\PD6\PDgrid\PDgrid\bin\Debug\EZInput.xml
+F:\study\sem2\OOP\OOPsemester2\PD6\PDgrid\PDgrid\obj\Debug\PDgrid.csproj.CopyComplete
