@@ -38,6 +38,26 @@ namespace PacMan
             int ghost4X = 21;
             int ghost4Y = 30;
 
+            char previous5 = ' ';
+            int ghost5X = 15;
+            int ghost5Y = 34;
+            string ghost5direction = "left";
+
+            char previous6 = ' ';
+            int ghost6X = 13;
+            int ghost6Y = 39;
+            string ghost6direction = "up";
+
+
+            char previous7 = ' ';
+            int ghost7X = 21;
+            int ghost7Y = 12;
+
+            char previous8 = ' ';
+            int ghost8X = 12;
+            int ghost8Y = 23;
+
+
             char[,] maze = new char[24, 71];
 
             readData(maze);
@@ -73,6 +93,7 @@ namespace PacMan
                 if (count1 == 5)            // Slowest Movement
                 {
                     gameRunning = moveGhostInLine(ref ghost1direction, maze, ref ghost1X, ref ghost1Y, ref previous1);
+                    gameRunning = moveGhostInLine(ref ghost5direction, maze, ref ghost5X, ref ghost5Y, ref previous5);
                     if (gameRunning == false)
                     { break;
                     }
@@ -81,6 +102,7 @@ namespace PacMan
                 if (count2 == 2)            // Slow Movement
                 {
                     gameRunning = moveGhostInLine(ref ghost2direction, maze, ref ghost2X, ref ghost2Y, ref previous2);
+                    gameRunning = moveGhostInLine(ref ghost6direction, maze, ref ghost6X, ref ghost6Y, ref previous6);
                     if (gameRunning == false)
                     {
                         break;
@@ -88,11 +110,13 @@ namespace PacMan
                     count2 = 0;
                 }
                 gameRunning = moveGhostRandom(maze, ref ghost3X, ref ghost3Y, ref previous3);
+                gameRunning = moveGhostRandom(maze, ref ghost7X, ref ghost7Y, ref previous7);
                 if (gameRunning == false)
                 {
                     break;
                 }
                 gameRunning = moveGhostSmart(maze, ref ghost4X, ref ghost4Y, ref previous4, pacmanX, pacmanY);
+                gameRunning = moveGhostSmart(maze, ref ghost8X, ref ghost8Y, ref previous8, pacmanX, pacmanY);
                 if (gameRunning == false)
                 {
                     break;
