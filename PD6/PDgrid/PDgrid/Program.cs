@@ -28,7 +28,7 @@ namespace PDgrid
 
             while (!grid.stopCondition())
             {
-            Thread.Sleep(200);
+            Thread.Sleep(1000);
                 foreach (var i in enemies)
                 {
                     i.moveHorizontal();

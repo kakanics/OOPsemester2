@@ -1,0 +1,11 @@
+F:\study\sem2\OOP\OOPsemester2\OOP9\SA1\SA1\SA1\bin\Debug\SA1.exe.config
+F:\study\sem2\OOP\OOPsemester2\OOP9\SA1\SA1\SA1\bin\Debug\SA1.exe
+F:\study\sem2\OOP\OOPsemester2\OOP9\SA1\SA1\SA1\bin\Debug\SA1.pdb
+F:\study\sem2\OOP\OOPsemester2\OOP9\SA1\SA1\SA1\obj\Debug\SA1.csproj.AssemblyReference.cache
+F:\study\sem2\OOP\OOPsemester2\OOP9\SA1\SA1\SA1\obj\Debug\SA1.csproj.SuggestedBindingRedirects.cache
+F:\study\sem2\OOP\OOPsemester2\OOP9\SA1\SA1\SA1\obj\Debug\SA1.Form1.resources
+F:\study\sem2\OOP\OOPsemester2\OOP9\SA1\SA1\SA1\obj\Debug\SA1.Properties.Resources.resources
+F:\study\sem2\OOP\OOPsemester2\OOP9\SA1\SA1\SA1\obj\Debug\SA1.csproj.GenerateResource.cache
+F:\study\sem2\OOP\OOPsemester2\OOP9\SA1\SA1\SA1\obj\Debug\SA1.csproj.CoreCompileInputs.cache
+F:\study\sem2\OOP\OOPsemester2\OOP9\SA1\SA1\SA1\obj\Debug\SA1.exe
+F:\study\sem2\OOP\OOPsemester2\OOP9\SA1\SA1\SA1\obj\Debug\SA1.pdb

@@ -1,0 +1,11 @@
+F:\study\sem2\OOP\OOPsemester2\PD9\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\study\sem2\OOP\OOPsemester2\PD9\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\study\sem2\OOP\OOPsemester2\PD9\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\study\sem2\OOP\OOPsemester2\PD9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\study\sem2\OOP\OOPsemester2\PD9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+F:\study\sem2\OOP\OOPsemester2\PD9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\study\sem2\OOP\OOPsemester2\PD9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\study\sem2\OOP\OOPsemester2\PD9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\study\sem2\OOP\OOPsemester2\PD9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\study\sem2\OOP\OOPsemester2\PD9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\study\sem2\OOP\OOPsemester2\PD9\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
